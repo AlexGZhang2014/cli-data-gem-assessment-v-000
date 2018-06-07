@@ -1,0 +1,10 @@
+source "https://rubygems.org"
+
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+
+<<<<<<< HEAD
+# Specify your gem's dependencies in top-ten-video-games.gemspec
+=======
+# Specify your gem's dependencies in top_ten_video_games.gemspec
+>>>>>>> 4e1d1f9174e07e02cac97c570669afef3ddd727f
+gemspec
